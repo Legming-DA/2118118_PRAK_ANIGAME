@@ -1,0 +1,406 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.48f1 (b805b124c6b7) revision 12060081'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 8006 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2020.3.48f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+G:/KULIAH/2118118/Semester 6 (2324)/Animasi dan Game/Praktikum/TUGAS GITHUB/BAB6/2118118_BAB6
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+41530
+Successfully changed project path to: G:/KULIAH/2118118/Semester 6 (2324)/Animasi dan Game/Praktikum/TUGAS GITHUB/BAB6/2118118_BAB6
+G:/KULIAH/2118118/Semester 6 (2324)/Animasi dan Game/Praktikum/TUGAS GITHUB/BAB6/2118118_BAB6
+Using Asset Import Pipeline V2.
+Player connection [6548] Host "[IP] 192.168.0.8 [Port] 3221443168 [Flags] 2 [Guid] 214884493 [EditorId] 214884493 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-1LHOCU8) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [6548] Host "[IP] 192.168.0.8 [Port] 3221443168 [Flags] 2 [Guid] 214884493 [EditorId] 214884493 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-1LHOCU8) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 243.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.48f1 (b805b124c6b7)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2020.3.48f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/KULIAH/2118118/Semester 6 (2324)/Animasi dan Game/Praktikum/TUGAS GITHUB/BAB6/2118118_BAB6/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX230 (ID=0x1d11)
+    Vendor:   
+    VRAM:     1984 MB
+    Driver:   25.21.14.1788
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2020.3.48f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2020.3.48f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2020.3.48f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56380
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2020.3.48f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.017694 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 111.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.425 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2426ms)
+		BeginReloadAssembly (702ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (3ms)
+		EndReloadAssembly (1473ms)
+			LoadAssemblies (689ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (495ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (95ms)
+			SetupLoadedEditorAssemblies (516ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (112ms)
+				BeforeProcessingInitializeOnLoad (24ms)
+				ProcessInitializeOnLoadAttributes (241ms)
+				ProcessInitializeOnLoadMethodAttributes (128ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007654 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 109.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.232 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3236ms)
+		BeginReloadAssembly (471ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (14ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (2595ms)
+			LoadAssemblies (341ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (922ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (132ms)
+			SetupLoadedEditorAssemblies (910ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (110ms)
+				BeforeProcessingInitializeOnLoad (173ms)
+				ProcessInitializeOnLoadAttributes (556ms)
+				ProcessInitializeOnLoadMethodAttributes (45ms)
+				AfterProcessingInitializeOnLoad (18ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 1.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2014 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.9 MB.
+System memory in use after: 92.9 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2448.
+Total: 10.027600 ms (FindLiveObjects: 0.377100 ms CreateObjectMapping: 0.208200 ms MarkObjects: 9.174300 ms  DeleteObjects: 0.265400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/truckcabin_vintage.png
+  artifactKey: Guid(d86d1e14fa295d6459a7719ced4faa1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/truckcabin_vintage.png using Guid(d86d1e14fa295d6459a7719ced4faa1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3507babef875c8675468a923b78c152') in 0.367372 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/sedan_vintage.png
+  artifactKey: Guid(97834c8e6f0997f4c8b7453a7e97919b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/sedan_vintage.png using Guid(97834c8e6f0997f4c8b7453a7e97919b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd9a305e316e311784c04d19c76abe95') in 0.044032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/sports_convertible.png
+  artifactKey: Guid(c4f699c108d62754b90a30f4d09f95ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/sports_convertible.png using Guid(c4f699c108d62754b90a30f4d09f95ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9582ef371b5d8a73e9f18a4600409b4') in 0.034729 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/formula.png
+  artifactKey: Guid(86572f378492fd142bb2782dd4f72fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/formula.png using Guid(86572f378492fd142bb2782dd4f72fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7342bb0c2509485a74fbbc4d5bf522f2') in 0.039882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/taxi.png
+  artifactKey: Guid(6125bf7d758d15a4eb8766b80f502592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/taxi.png using Guid(6125bf7d758d15a4eb8766b80f502592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58fdcf9714feeece29a4e1c6e11fc430') in 0.042112 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/tractor.png
+  artifactKey: Guid(12b0786faa3831b4f9176da55552e37a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/tractor.png using Guid(12b0786faa3831b4f9176da55552e37a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d22bd87eb8cc9a91bde07ace06c319') in 0.035779 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/suv_travel.png
+  artifactKey: Guid(dcc6682454eec35439c652a1b727afe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/suv_travel.png using Guid(dcc6682454eec35439c652a1b727afe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ae5ac1ce6d9fe6311bc8b888f125dc6') in 0.036426 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/convertible.png
+  artifactKey: Guid(6364a654f7816ff4f91788dcb8b3a522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/convertible.png using Guid(6364a654f7816ff4f91788dcb8b3a522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a439a665cf6d483d703b0c72dc66fa') in 0.036623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/truckcabin.png
+  artifactKey: Guid(5003c503ba175244382199b5efb61e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/truckcabin.png using Guid(5003c503ba175244382199b5efb61e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e49bea72732e5e49d70ce95c8faec1e0') in 0.037201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/asset1_vehicle-pack/Preview.png
+  artifactKey: Guid(e2811b73f2a77ea469c7609bbee23638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/Preview.png using Guid(e2811b73f2a77ea469c7609bbee23638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0901f4c29a1d247d9a79da266195741b') in 0.062661 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/rounded_yellow.png
+  artifactKey: Guid(9cf742ab4b5c4cf478e3a625099895a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/rounded_yellow.png using Guid(9cf742ab4b5c4cf478e3a625099895a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6cbbf107c707f0f4406c86e084594fb') in 0.047655 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/sports_green.png
+  artifactKey: Guid(dcf9829743cd5954584364e17b5a69d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/sports_green.png using Guid(dcf9829743cd5954584364e17b5a69d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ae6d035a51c3a6d1eee70ec14785bc6') in 0.044675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000604 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/rounded_green.png
+  artifactKey: Guid(4468e68c4789e5f4faee82cef9f7d994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/rounded_green.png using Guid(4468e68c4789e5f4faee82cef9f7d994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be287b95b1b54efe43b3da42e34908a5') in 0.042672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/hotdog.png
+  artifactKey: Guid(15d948bd30762e342ab586c032591e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/hotdog.png using Guid(15d948bd30762e342ab586c032591e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12bbf318ec384b0f0de887f395a0cc81') in 0.042789 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/sports_yellow.png
+  artifactKey: Guid(71cd7fbd75851b74091b19419ab7fa74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/sports_yellow.png using Guid(71cd7fbd75851b74091b19419ab7fa74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '392b3cf25af51037b6e554ea379ecd4a') in 0.053072 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/sedan_blue.png
+  artifactKey: Guid(646c1594b4692c9408c77ade7fefdbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/sedan_blue.png using Guid(646c1594b4692c9408c77ade7fefdbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18e9526028ba941aa55d56c053166732') in 0.036436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/truck_trailer.png
+  artifactKey: Guid(4df14cb3c3f1c7848b60fc63e767378f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/truck_trailer.png using Guid(4df14cb3c3f1c7848b60fc63e767378f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '391a9f90ad528feed2473b94bb07895b') in 0.048056 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/cycle_low.png
+  artifactKey: Guid(253c2a9bd4bbe984ea0949942a08b21e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/cycle_low.png using Guid(253c2a9bd4bbe984ea0949942a08b21e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee218b8685f72148ef1303aed557c2ac') in 0.040562 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/suv_large.png
+  artifactKey: Guid(28dca04caeeffb3448574665851ad16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/suv_large.png using Guid(28dca04caeeffb3448574665851ad16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd542f7b45c65f2e2c061bf9568afddb6') in 0.037350 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/bus.png
+  artifactKey: Guid(fe9674dcaa059e54292718d93e5b5562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/bus.png using Guid(fe9674dcaa059e54292718d93e5b5562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '746226ad59fa285d2877e14c70f73e13') in 0.043376 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/towtruck.png
+  artifactKey: Guid(07a9563a26dd7a746bd6bae4dfddf61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/towtruck.png using Guid(07a9563a26dd7a746bd6bae4dfddf61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01ec9c044d4a6569af72f7036a9718dc') in 0.045453 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/firetruck.png
+  artifactKey: Guid(46976d4ab3b589e469102ec512192680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/firetruck.png using Guid(46976d4ab3b589e469102ec512192680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '813bf5426ca6687e27224dcde72924a0') in 0.040330 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000703 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/bus_school.png
+  artifactKey: Guid(707c154780c27aa42bb513dc7c224be0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/bus_school.png using Guid(707c154780c27aa42bb513dc7c224be0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec86cf9fd243b94aea8534624140fd01') in 0.036281 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/cycle.png
+  artifactKey: Guid(85f6ea2ff0073ef4baabbc89334fe35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/cycle.png using Guid(85f6ea2ff0073ef4baabbc89334fe35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a31ee2f246bec81d2969f8fa17fde0e4') in 0.039518 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/rounded_red.png
+  artifactKey: Guid(7129c211fe106344382f0906d71fc67c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/rounded_red.png using Guid(7129c211fe106344382f0906d71fc67c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a5eeee8d50764230a94671c9adf01bc') in 0.044582 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/transport.png
+  artifactKey: Guid(ddc9864532f39544cba86ea47d5a6cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/transport.png using Guid(ddc9864532f39544cba86ea47d5a6cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a9521a9dea3ac8436ac32fb051f148b') in 0.040094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/truckdark.png
+  artifactKey: Guid(44f4da26d39f43a44931ccf054180fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/truckdark.png using Guid(44f4da26d39f43a44931ccf054180fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62c3c967abd3932fd5187b5c520fd13b') in 0.043820 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/asset1_vehicle-pack
+  artifactKey: Guid(10fcb0916bef67d4ea88a53d58f0ad92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack using Guid(10fcb0916bef67d4ea88a53d58f0ad92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0eb78092b056b7f7152ee9ae18e8e37') in 0.020548 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/riot.png
+  artifactKey: Guid(ee0e79bf30567a14c94a8d4f708ae97d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/riot.png using Guid(ee0e79bf30567a14c94a8d4f708ae97d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5173774d01f05577d5710fe2bdbe4a91') in 0.037597 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/suv.png
+  artifactKey: Guid(29dbe10e685026a45be63bd866bb192f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/suv.png using Guid(29dbe10e685026a45be63bd866bb192f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a6505e209643ab4a90919a35cbcdbe2') in 0.051523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/kart.png
+  artifactKey: Guid(e608908c458cf3845909573457b3391d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/kart.png using Guid(e608908c458cf3845909573457b3391d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abcc5d19f253ff5fed4eda40c0b2edb3') in 0.040369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/police.png
+  artifactKey: Guid(6bc81bf9ecbd19e4b948fd0df1641dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/police.png using Guid(6bc81bf9ecbd19e4b948fd0df1641dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94464b8fecb42fc594a2c5de988b19f4') in 0.035705 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000579 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/buggy.png
+  artifactKey: Guid(74f08ec98a71bc040a773335b42c0518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/buggy.png using Guid(74f08ec98a71bc040a773335b42c0518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84060ab8cf8609eda06e47ddedd28a5d') in 0.034334 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/truck.png
+  artifactKey: Guid(9e7b8350158860c46b4e2ff90ec392fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/truck.png using Guid(9e7b8350158860c46b4e2ff90ec392fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b74b4bae60c71f49fb5a4a08bbea995') in 0.039265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/suv_military.png
+  artifactKey: Guid(581d4161e0397384585a17383fbc5358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/suv_military.png using Guid(581d4161e0397384585a17383fbc5358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c72d32930e066709273a6f88beaf1017') in 0.039532 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/suv_green.png
+  artifactKey: Guid(3ed0fe4d61eeefc42b9db90e4a582753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/suv_green.png using Guid(3ed0fe4d61eeefc42b9db90e4a582753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eff051b297ead931c98a4d0ede04f6a0') in 0.039092 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/suv_closed.png
+  artifactKey: Guid(136bebfe0ea8cbc4cb9c0d82513adf1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/suv_closed.png using Guid(136bebfe0ea8cbc4cb9c0d82513adf1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebcce31d68fcb8d54d3376401d13dda9') in 0.036380 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/scooter.png
+  artifactKey: Guid(b4df0ff582eab6b4ab86ab17e05ce3e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/scooter.png using Guid(b4df0ff582eab6b4ab86ab17e05ce3e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4ac40ab15f7096f87f386efeded1433') in 0.041017 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars
+  artifactKey: Guid(d0ec38ca9d5802f448c8a7dbd57cf2a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars using Guid(d0ec38ca9d5802f448c8a7dbd57cf2a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c69914d809110f78cf1eaf8cf2ddebe') in 0.020553 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/asset1_vehicle-pack/PNG
+  artifactKey: Guid(24f164cf87f14194da57568cfaf99d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG using Guid(24f164cf87f14194da57568cfaf99d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5266570643873bfa1fa6e96282030b21') in 0.021315 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/sedan.png
+  artifactKey: Guid(7de4687ab2f912642abd097d1b63d5a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/sedan.png using Guid(7de4687ab2f912642abd097d1b63d5a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81a6251fb3fa2080b4e06befb8cc4b3e') in 0.035293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/sports_race.png
+  artifactKey: Guid(a23947e1d03ddbd47addc71c9a99a1e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/sports_race.png using Guid(a23947e1d03ddbd47addc71c9a99a1e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d26fef432b3dcef6cba69022ca8ec3a') in 0.039066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/sports_red.png
+  artifactKey: Guid(f4894a61dd5066d4ea604a00a7426585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/sports_red.png using Guid(f4894a61dd5066d4ea604a00a7426585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f477f572a2b8105a12178590129ecc94') in 0.058891 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/station.png
+  artifactKey: Guid(38384f8b0179a784ba2af83a195f42b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/station.png using Guid(38384f8b0179a784ba2af83a195f42b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beb189e3061e50cbcbe670518cee7ce7') in 0.038516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/asset1_vehicle-pack/PNG/Cars/ambulance.png
+  artifactKey: Guid(aaf59118a8de5f245bb4ff1b66693fbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset1_vehicle-pack/PNG/Cars/ambulance.png using Guid(aaf59118a8de5f245bb4ff1b66693fbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e07321e43710b85c81a846574b707cb0') in 0.042675 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
